@@ -18,20 +18,6 @@ Lombok for reducing boilerplate code
 
 RESTful API architecture
 
-springrestapi/
-│
-├── src/main/java/in/royal/springrestapi/
-│   ├── controller/         # REST controllers
-│   ├── model/              # JPA entities
-│   ├── repository/         # Spring Data JPA repositories
-│   └── service/            # Service layer (business logic)
-│
-├── src/main/resources/
-│   └── application.properties  # DB config
-│
-├── pom.xml                 # Maven build config
-├── HELP.md                 # Spring initial documentation
-└── README.md               # Project guide (this file)
 
 
 
